@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28853550819",
+    "firebase_url": "https://compravenda-d032b.firebaseio.com",
+    "project_id": "compravenda-d032b",
+    "storage_bucket": "compravenda-d032b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28853550819:android:2cc804f46faf39d4",
+        "android_client_info": {
+          "package_name": "com.novaversao.willcorpcode.compravenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28853550819-bnsgjtv69grg00gi8onvcu0v5t6tafa0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novaversao.willcorpcode.compravenda",
+            "certificate_hash": "c0bfa4573f121af9390def7763f57b1bfa0e9a2d"
+          }
+        },
+        {
+          "client_id": "28853550819-hp0n9bnuijcicqr8oqq08pt6knv0b8dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZAv9ochk7TSp9TjQ9Zj2IHkYANhCc0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28853550819-hp0n9bnuijcicqr8oqq08pt6knv0b8dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
